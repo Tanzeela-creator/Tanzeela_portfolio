@@ -1,1 +1,1 @@
-# Tanzeela_portfolio
+I kept the navbar and footer consistent by using the same structure and styling across all pages. Each page contains the same navigation links and footer layout. I used one shared CSS file to maintain the same colors, spacing, typography, and responsive behavior. This makes all pages feel connected and provides a consistent user experience.
